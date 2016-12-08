@@ -8,6 +8,6 @@ python_dev_packages:
             - python-dev
 
 python_dev_pip_packages:
-    pkg.installed:
+    pip.installed:
         - pkgs:
             - virtualenvwrapper
